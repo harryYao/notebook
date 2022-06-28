@@ -7,8 +7,9 @@
   "author": "yxls0805@163.com",
   "license": "MIT",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
+    "doc:dev": "npx vuepress dev docs",
+    "dev": "npx vuepress dev docs",
+    "doc:build": "npx vuepress build docs",
     "build": "npx vuepress build docs",
     "doc:deploy": "npx gh-pages -d docs/dist",
     "deploy": "npx gh-pages -d docs/dist"
