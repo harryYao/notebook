@@ -14,6 +14,7 @@ module.exports = {
             collapsable: true, // 下级列表不可折叠
             children: [ // 下级列表
               'diary/2022-06',
+              'diary/2022-07',
             ]
           }
         ],
