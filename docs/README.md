@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /imgs/logo.jepg
+heroImage: /imgs/logo.jpeg
 heroText: 生活小记
 tagline: 记录孩子的成长和生活中的点滴
 actionText: GO →
