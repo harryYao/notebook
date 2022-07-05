@@ -4,7 +4,7 @@ module.exports = {
     title: '生活小记', // 标题
     description: '记录孩子的成长和生活中的点滴', // 标题下的描述
     themeConfig: { // 主题配置
-        logo: '/imgs/logo.jepg',
+        logo: '/imgs/logo.jpeg',
         nav: [ // 头部导航
         //   { text: 'GITHUB', link: 'https://github.com/harryYao' }
         ],
